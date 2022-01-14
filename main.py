@@ -1,3 +1,7 @@
+
+#File Name: main.py                       
+#Description: A Rock, Paper and Scissor game project
+
 rock = '''
     _______
 ---'   ____)
